@@ -1,0 +1,101 @@
+site_name: Physical AI & Embodied Robotics Engineering
+site_description: An engineering knowledge hub for learning, simulation, and deployment.
+site_url: https://athivvat.github.io/physical-ai-and-embodied-robotics-engineering/
+repo_url: https://github.com/athivvat/physical-ai-and-embodied-robotics-engineering
+repo_name: athivvat/physical-ai-and-embodied-robotics-engineering
+edit_uri: edit/main/docs/
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  language: en
+  font: false
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+validation:
+  links:
+    not_found: warn
+    unrecognized_links: warn
+    anchors: warn
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Overview: start-here/index.md
+      - Learning Path: start-here/learning-path.md
+  - Foundations:
+      - Overview: foundations/index.md
+      - "Mathematics for Physical AI": foundations/mathematics.md
+      - "Deep Learning with PyTorch": foundations/pytorch.md
+      - "Computer Vision & Visual Perception": foundations/computer-vision.md
+      - "Transformers & Attention Architectures": foundations/transformers.md
+      - "Generative Models & Foundation Models": foundations/generative-models.md
+      - "ML Systems, Data & Reproducibility": foundations/ml-systems.md
+      - "Programming & Systems": foundations/programming-and-systems.md
+      - "Robotics Foundations": foundations/robotics-foundations.md
+      - "Mathematics & Physics References": foundations/mathematics-and-physics.md
+  - Simulation:
+      - Overview: simulation/index.md
+      - "Robot Kinematics & Dynamics": simulation/kinematics-and-dynamics.md
+      - "OpenUSD & 3D Scene Composition": simulation/openusd.md
+      - "Physics Simulation & Robot Modeling": simulation/physics.md
+      - "Isaac Sim & Digital Twin Engineering": simulation/isaac-sim.md
+      - "Synthetic Data & Scenario Engineering": simulation/synthetic-data.md
+  - Robot Learning:
+      - Overview: robot-learning/index.md
+      - "Reinforcement Learning for Robotics": robot-learning/reinforcement-learning.md
+      - "Imitation Learning & Robot Demonstrations": robot-learning/imitation-learning.md
+      - "Vision-Language-Action Models": robot-learning/vision-language-action.md
+      - "World Models & Predictive Learning": robot-learning/world-models.md
+      - "Robot Policy Training with Isaac Lab": robot-learning/isaac-lab.md
+      - "Robot Experience Data & Continuous Improvement": robot-learning/experience-data.md
+  - Deployment:
+      - Overview: deployment/index.md
+      - "Robot Hardware & Embedded Systems": deployment/hardware.md
+      - "ROS 2 & Robot Software Architecture": deployment/ros2.md
+      - "Robot Control & Motion Planning": deployment/control-and-planning.md
+      - "Edge AI Inference & Model Deployment": deployment/edge-inference.md
+      - "Sim-to-Real Transfer, Safety & Reliability": deployment/sim-to-real.md
+      - "Mechanics & Electronics": deployment/mechanics-and-electronics.md
+  - Projects:
+      - Overview: projects/index.md
+      - SO-101: projects/so101.md
+  - Resources:
+      - Overview: resources/index.md
+      - Research & Open Challenges: resources/research.md
+      - Open Source & Community: resources/community.md

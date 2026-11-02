@@ -1,33 +1,6 @@
-# 1. Mathematics & Physics
+# Mathematics & Physics
 
-> To build precise mathematical models of robot motion and understand the physical laws governing interactions with the real world.
+This topic is now maintained in the knowledge hub:
 
-**Table of Centents**
-- [Linear Algebra](#linear-algebra)
-- [Calculus \& Differential Equations](#calculus--differential-equations)
-- [Optimization](#optimization)
-- [Classical Mechanics](#classical-mechanics)
-- [Probability \& Statistics](#probability--statistics)
-
-## Linear Algebra
-
-Vector spaces, Eigenvalues/Eigenvectors, SVD, and SO(3)/SE(3) Transformations for 3D rotations.
-
-- [MIT 18.06 Linear Algebra](https://web.mit.edu/18.06/www/)
-
-## Calculus & Differential Equations
-
-Multivariable calculus, Jacobian matrices, and ODEs for predicting system states.
-
-## Optimization
-
-Linear Programming (LP), Quadratic Programming (QP), and Convex Optimization for path and energy efficiency.
-
-## Classical Mechanics
-
-Newtonian Dynamics and Lagrangian Mechanics for modeling complex multi-body systems.
-
-## Probability & Statistics
-
-Gaussian Distributions and Bayesian inference for handling sensor noise and uncertainty.
-
+- [Mathematics & Physics](../docs/foundations/mathematics-and-physics.md)
+- [Suggested learning path](../docs/start-here/learning-path.md)

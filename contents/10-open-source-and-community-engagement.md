@@ -1,6 +1,10 @@
-# 10. Open Source & Community Engagement
+# Open Source & Community
 
-## GitHub Projects
+This topic is now maintained in the knowledge hub:
 
-### Awesome Projects
-- Manuel-1.0: Open-source robotic arm [[GitHub]](https://github.com/mattweidman/Manuel-1.0)[[YouTube]](https://www.youtube.com/watch?v=q0eZf5LdW8s)
+- [Open Source & Community](../docs/resources/community.md)
+- [Suggested learning path](../docs/start-here/learning-path.md)
+
+## Awesome Projects
+
+See [community projects](../docs/resources/community.md#awesome-projects).
