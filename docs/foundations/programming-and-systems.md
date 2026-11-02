@@ -16,6 +16,6 @@ Write a program that reads timestamped sensor samples, validates their shape, an
 
 ## Next steps
 
-- [PyTorch](pytorch.md)
+- [PyTorch](pytorch/index.md)
 - [ML systems and reproducibility](ml-systems.md)
 - [ROS 2](../deployment/ros2.md)

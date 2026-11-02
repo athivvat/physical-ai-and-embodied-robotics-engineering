@@ -61,7 +61,7 @@ nav:
   - Foundations:
       - Overview: foundations/index.md
       - "Mathematics for Physical AI": foundations/mathematics.md
-      - "Deep Learning with PyTorch": foundations/pytorch.md
+      - "Deep Learning with PyTorch": foundations/pytorch/index.md
       - "Computer Vision & Visual Perception": foundations/computer-vision.md
       - "Transformers & Attention Architectures": foundations/transformers.md
       - "Generative Models & Foundation Models": foundations/generative-models.md

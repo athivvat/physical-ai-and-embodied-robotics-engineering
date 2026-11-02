@@ -8,7 +8,7 @@ This topic guide identifies concepts to explore and an experiment to try. Use th
 
 ## Prerequisites
 
-[Deep Learning with PyTorch](pytorch.md)
+[Deep Learning with PyTorch](pytorch/index.md)
 
 ## Key concepts
 

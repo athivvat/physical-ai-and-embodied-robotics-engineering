@@ -8,7 +8,7 @@ This topic guide identifies concepts to explore and an experiment to try. Use th
 
 ## Prerequisites
 
-[Mathematics for Physical AI](mathematics.md)
+[Mathematics for Physical AI](../mathematics.md)
 
 ## Key concepts
 
@@ -31,6 +31,6 @@ Record your setup, inputs, measurements, and failure cases. Keep the experiment 
 
 ## Next steps
 
-- [Computer Vision & Visual Perception](computer-vision.md)
-- [Transformers & Attention Architectures](transformers.md)
-- [ML Systems, Data & Reproducibility](ml-systems.md)
+- [Computer Vision & Visual Perception](../computer-vision.md)
+- [Transformers & Attention Architectures](../transformers.md)
+- [ML Systems, Data & Reproducibility](../ml-systems.md)

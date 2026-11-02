@@ -8,7 +8,7 @@ This topic guide identifies concepts to explore and an experiment to try. Use th
 
 ## Prerequisites
 
-[Deep Learning with PyTorch](../foundations/pytorch.md), [Computer Vision & Visual Perception](../foundations/computer-vision.md)
+[Deep Learning with PyTorch](../foundations/pytorch/index.md), [Computer Vision & Visual Perception](../foundations/computer-vision.md)
 
 ## Key concepts
 

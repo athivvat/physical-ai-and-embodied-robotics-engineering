@@ -1,0 +1,5 @@
+# Shared learning tools. Install PyTorch separately for your platform (see README.md).
+ipykernel
+jupyterlab
+numpy
+matplotlib

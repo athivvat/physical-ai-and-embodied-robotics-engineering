@@ -30,5 +30,5 @@ Record your setup, inputs, measurements, and failure cases. Keep the experiment 
 
 ## Next steps
 
-- [Deep Learning with PyTorch](pytorch.md)
+- [Deep Learning with PyTorch](pytorch/index.md)
 - [Robot Kinematics & Dynamics](../simulation/kinematics-and-dynamics.md)

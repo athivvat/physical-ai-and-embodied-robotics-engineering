@@ -7,7 +7,7 @@ Start hardware and ROS 2 exploration early if suitable equipment is available. Y
 ## 1. Build a foundation
 
 - [Mathematics for Physical AI](../foundations/mathematics.md)
-- [Deep Learning with PyTorch](../foundations/pytorch.md)
+- [Deep Learning with PyTorch](../foundations/pytorch/index.md)
 
 **Experiment milestone:** A repeatable training run with an evaluation baseline.
 

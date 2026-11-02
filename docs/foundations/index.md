@@ -7,7 +7,7 @@ Browse topics independently or follow the [suggested learning path](../start-her
 ## Topics
 
 - [Mathematics for Physical AI](mathematics.md)
-- [Deep Learning with PyTorch](pytorch.md)
+- [Deep Learning with PyTorch](pytorch/index.md)
 - [Computer Vision & Visual Perception](computer-vision.md)
 - [Transformers & Attention Architectures](transformers.md)
 - [Generative Models & Foundation Models](generative-models.md)

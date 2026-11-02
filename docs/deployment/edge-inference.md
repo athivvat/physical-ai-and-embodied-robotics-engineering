@@ -8,7 +8,7 @@ This topic guide identifies concepts to explore and an experiment to try. Use th
 
 ## Prerequisites
 
-[Deep Learning with PyTorch](../foundations/pytorch.md), [ROS 2 & Robot Software Architecture](ros2.md)
+[Deep Learning with PyTorch](../foundations/pytorch/index.md), [ROS 2 & Robot Software Architecture](ros2.md)
 
 ## Key concepts
 
